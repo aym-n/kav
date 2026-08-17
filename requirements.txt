@@ -1,0 +1,10 @@
+transformers==4.46.3
+peft>=0.17.0
+accelerate>=0.33.0
+sentencepiece
+protobuf
+safetensors
+torch
+KashmiriNormalizer
+pandas
+tqdm

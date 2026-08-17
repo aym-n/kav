@@ -1,0 +1,23 @@
+{
+ "correct_forms": {
+  "thirteen": "تُرٛواہ",
+  "fourteen": "ژۄدہ",
+  "fifteen": "پندہ",
+  "sixteen": "شُراہ",
+  "seventeen": "سدہ",
+  "eighteen": "اَردہ",
+  "nineteen": "کُنوُہ"
+ },
+ "known_wrong_forms": {
+  "fifteen": [
+   "پانٛژھ",
+   "پنٛژھ",
+   "پَنٛژھ",
+   "پانٛژ"
+  ],
+  "eighteen": [
+   "اوٚٹھ",
+   "اَٹھ"
+  ]
+ }
+}
